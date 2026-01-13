@@ -10,7 +10,10 @@
 
 Este projeto é o backend de um sistema de e-commerce. O objetivo foi criar uma arquitetura escalável e segura onde usuários autenticados podem gerenciar um inventário de produtos. O sistema implementa validação rigorosa de dados e segurança via tokens.
 
-## 🚀 Tecnologias Utilizadas
+<img width="1808" height="939" alt="Captura de tela 2026-01-13 161957" src="https://github.com/user-attachments/assets/a36f773f-7238-4e10-bad3-9bdb2bca71bd" />
+
+## 🚀 Tecnologia![Uploading Captura de tela 2026-01-13 161957.png…]()
+s Utilizadas
 
 - **[FastAPI](https://fastapi.tiangolo.com/):** Framework web moderno e de alta performance.
 - **[SQLAlchemy](https://www.sqlalchemy.org/):** ORM para gerenciamento e persistência de dados.
